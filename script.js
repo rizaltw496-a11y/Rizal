@@ -79,7 +79,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
     // Fungsi untuk membuat kembang api (sederhana)
     function createFireworks() {
-        for (let i = 0; i < 20; i++) {
+        for (let i = 0; i < 100; i++) {
             setTimeout(() => {
                 const firework = document.createElement('div');
                 firework.classList.add('firework');

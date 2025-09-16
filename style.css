@@ -121,7 +121,7 @@ body, html {
 /* Teks tambahan di bawah */
 .additional-text {
     position: absolute;
-    bottom: 25%; /* Sesuaikan posisi dari bawah */
+    bottom: 6%; /* Sesuaikan posisi dari bawah */
     left: 50%;
     transform: translateX(-50%);
     font-size: 1.2em;
